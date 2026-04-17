@@ -1,0 +1,7 @@
+# data.yaml
+train: C:/Users/Nikita Vasilenko/.cache/kagglehub/datasets/adilshamim8/face-detection/versions/1/train/train
+val: C:/Users/Nikita Vasilenko/.cache/kagglehub/datasets/adilshamim8/face-detection/versions/1/valid/valid
+test: C:/Users/Nikita Vasilenko/.cache/kagglehub/datasets/adilshamim8/face-detection/versions/1/test/test
+
+nc: 1
+names: ['face']

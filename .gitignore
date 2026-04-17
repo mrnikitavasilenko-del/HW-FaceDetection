@@ -1,0 +1,36 @@
+# Веса моделей
+*.pt
+*.pth
+*.weights
+
+# Видеофайлы
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Результаты обучения и экспериментов
+runs/
+
+# Вложенный репозиторий YOLOv7
+yolov7/
+
+# Сгенерированные файлы
+output_counted.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Временные файлы
+*.log
+*.tmp
+.DS_Store
